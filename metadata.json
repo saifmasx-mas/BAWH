@@ -1,0 +1,6 @@
+{
+  "name": "بوح - مدونة أدبية وثقافية",
+  "description": "منصة أدبية وثقافية تعنى بالشعر العربي الملتزم بقضايا الأمة، النقد الأدبي المعمق، فن المقامات، وميزان القصيد وعلم العروض.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
